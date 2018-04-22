@@ -4,6 +4,9 @@ Micropython library wrappers and functions that I use across projects
 ## boot.py
 My common boot.py - just an example with webrepl enabled and upysh imported- setup wifi and webrepl (import webrepl_setup) before use
 
+## config.json
+Example configuration file for mymqtt.py and mywifi.py
+
 ## mymqtt.py
 My MQTT wrapper and handlers - wraps umqtt.simple and allows JSON configuration
 
